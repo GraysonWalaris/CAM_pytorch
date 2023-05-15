@@ -10,7 +10,7 @@ For this, a resnet18 model pretrained on the CIFAR10 dataset was modified and fi
 
 The class activation maps can then be found and superimposed onto the image using the Soft CAM method proposed in the paper:
 
-![alt text](https://github.com/gbbyrd/CAM_pytorch/blob/main/ref/CAM_diagram.png?raw=true)
+![alt text](https://github.com/GraysonWalaris/CAM_pytorch/blob/main/ref/CAM_diagram.png?raw=true)
 
 # How to run
 
@@ -42,8 +42,8 @@ python visualize.py
 
 ## Examples
 
-![alt text](https://github.com/gbbyrd/CAM_pytorch/blob/main/ref/Bird.png?raw=true)
+![alt text](https://github.com/GraysonWalaris/CAM_pytorch/blob/main/ref/Bird.png?raw=true)
 
-![alt text](https://github.com/gbbyrd/CAM_pytorch/blob/main/ref/Bird_2.png?raw=true)
+![alt text](https://github.com/GraysonWalaris/CAM_pytorch/blob/main/ref/Bird_2.png?raw=true)
 
-![alt text](https://github.com/gbbyrd/CAM_pytorch/blob/main/ref/Car.png?raw=true)
+![alt text](https://github.com/GraysonWalaris/CAM_pytorch/blob/main/ref/Car.png?raw=true)
